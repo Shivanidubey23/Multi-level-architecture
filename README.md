@@ -1,6 +1,6 @@
 # Multi-level-archtecture in .Net
 
-Brief description of your project and its purpose.
+This project demonstrates how having a muli level architecture in project helps in distributing area of concerns and also segegrating the code so as to reduce tight coupling between different layers.
 
 ## Table of Contents
 - [Architecture Overview](#architecture-overview)
@@ -27,4 +27,5 @@ Instructions to set up and run the project.
 
 1. **Clone the Repository**
    ```bash
-   
+   https://github.com/Shivanidubey23/Multi-level-architecture.git
+
