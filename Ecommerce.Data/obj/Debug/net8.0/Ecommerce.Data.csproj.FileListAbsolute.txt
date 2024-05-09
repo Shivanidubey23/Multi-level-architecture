@@ -1,0 +1,14 @@
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\bin\Debug\net8.0\Ecommerce.Data.deps.json
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\bin\Debug\net8.0\Ecommerce.Data.runtimeconfig.json
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\bin\Debug\net8.0\Ecommerce.Data.dll
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\bin\Debug\net8.0\Ecommerce.Data.pdb
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\net8.0\Ecommerce.Data.csproj.AssemblyReference.cache
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\net8.0\Ecommerce.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\net8.0\Ecommerce.Data.AssemblyInfoInputs.cache
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\net8.0\Ecommerce.Data.AssemblyInfo.cs
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\net8.0\Ecommerce.Data.csproj.CoreCompileInputs.cache
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\net8.0\Ecommerce.Data.dll
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\net8.0\refint\Ecommerce.Data.dll
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\net8.0\Ecommerce.Data.pdb
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\net8.0\Ecommerce.Data.genruntimeconfig.cache
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.Data\obj\Debug\net8.0\ref\Ecommerce.Data.dll

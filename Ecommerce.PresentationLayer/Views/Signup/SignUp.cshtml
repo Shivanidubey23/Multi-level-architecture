@@ -1,0 +1,71 @@
+﻿@using Ecommerce
+@*  /*******************************************************************************
+
+ Name:         Singup view page
+ Author:       Shivani Dubey, Chrome Infotech
+ Date:         01/01/2024
+ Description:  Ecommerce
+
+  Copyright © 2023 ChromeInfotech Corporation.  All Rights Reserved
+
+ Revisions:
+ 01/01/2024  1.0.0   SD  Created
+
+*******************************************************************************/ *@
+@model Ecommerce.DAL.ViewModel.UserViewModel
+
+@{
+    ViewData[Constant.Keys.Title] = Constant.Text.Signup;
+    Layout = Constant.Layout.layout;
+}
+
+<div class="login login-1 flex-row-fluid d-flex flex-column position-relative p-7 overflow-hidden">
+
+    <!--begin::Content body-->
+    <!--begin::Signup-->
+    <div class="d-flex flex-column-fluid flex-center mt-30 mt-lg-0 login-signup">
+        <div class="login-form">
+            <div class="text-center mb-10 mb-lg-20">
+                <h3 class="font-size-h1">Sign Up</h3>
+                <p class="text-muted font-weight-bold">@Constant.Messages.Details</p>
+            </div>
+
+            <form asp-controller="Signup" asp-action="Signup" method="post" class="form" novalidate="novalidate">
+                <div class="form-group">
+
+                    <input asp-for="FullName" class="form-control form-control-solid h-auto py-5 px-6" placeholder="@Constant.Placeholder.FullName" autocomplete="off" />
+                    <span asp-validation-for="FullName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+
+                    <input asp-for="Username" class="form-control form-control-solid h-auto py-5 px-6" placeholder="@Constant.Placeholder.User" autocomplete="off" />
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+
+                    <input asp-for="EmailId" class="form-control form-control-solid h-auto py-5 px-6" placeholder="@Constant.Placeholder.Email" autocomplete="off" />
+                    <span asp-validation-for="EmailId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+
+                    <input asp-for="Password" class="form-control form-control-solid h-auto py-5 px-6" placeholder="@Constant.Placeholder.Password" autocomplete="off" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+
+                    <input asp-for="ConfirmPassword" class="form-control form-control-solid h-auto py-5 px-6" placeholder="@Constant.Placeholder.ConfirmPass" autocomplete="off" />
+                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input asp-for="Agree" /> @Constant.Messages.Agree <a href="#">@Constant.Messages.TermsAndCondition</a>.
+                    <span asp-validation-for="Agree" class="text-danger"></span>
+                </div>
+
+                <div class="form-group d-flex flex-wrap flex-center">
+                    <button id="kt_login_signup_submit" class="btn btn-primary font-weight-bold px-9 py-4 my-3 mx-4">@Constant.Text.Submit</button>
+                    <a href="@Url.Action("Signin", "SignIn")" id="kt_login_forgot_cancel" class="btn btn-light-primary font-weight-bold px-9 py-4 my-3 mx-4">@Constant.Text.Cancel</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,49 @@
+﻿@using Ecommerce
+@*  /*******************************************************************************
+
+ Name:         Forgot view
+ Author:       Shivani Dubey, Chrome Infotech
+ Date:         01/01/2023
+ Description:  Ecommerce
+
+  Copyright © 2023 ChromeInfotech Corporation.  All Rights Reserved
+
+ Revisions:
+ 01/01/2023  1.0.0   SD  Created
+
+*******************************************************************************/ *@
+@model Ecommerce.Data.Models.User
+
+@{
+    ViewData[Constant.Keys.Title] = Constant.Text.Forgot;
+    Layout = Constant.Layout.layout;
+}
+
+<div class="flex-row-fluid d-flex flex-column position-relative p-7 overflow-hidden">
+    <div class="position-absolute top-0 right-0 text-right mt-5 mb-15 mb-lg-0 flex-column-auto justify-content-center py-5 px-10">
+        <span class="font-weight-bold text-dark-50">@Constant.Messages.DontHaveAccount</span>
+        <a href="@Url.Action("Signup", "Signup")" class="font-weight-bold ml-2" id="kt_login_signup">@Constant.Text.SignUp</a>
+    </div>
+
+    <div class="d-flex flex-column-fluid flex-center mt-30 mt-lg-0">
+        <div class="login-form login-forgot">
+            <div class="text-center mb-10 mb-lg-20">
+                <h3 class="font-size-h1">@Constant.Text.Forgotten</h3>
+                <p class="text-muted font-weight-bold">@Constant.Messages.ForgotMessage</p>
+            </div>
+
+            @using (Html.BeginForm("Forgot", "Forgot", FormMethod.Post))
+            {
+                <div class="form-group">
+                    @Html.TextBoxFor(m => m.EmailId, new { @class = "form-control form-control-solid h-auto py-5 px-6", placeholder = Constant.Placeholder.Email, autocomplete = "off" })
+                    @Html.ValidationMessageFor(m => m.EmailId, "", new { @class = "invalid_inputs" })
+                </div>
+
+                <div class="form-group d-flex flex-wrap flex-center">
+                    <button type="submit" id="kt_login_forgot_submit" class="btn btn-primary font-weight-bold px-9 py-4 my-3 mx-4">@Constant.Text.Submit</button>
+                    <a href="@Url.Action("Signin", "SignIn")" id="kt_login_forgot_cancel" class="btn btn-light-primary font-weight-bold px-9 py-4 my-3 mx-4">@Constant.Text.Cancel</a>
+                </div>
+            }
+        </div>
+    </div>
+</div>

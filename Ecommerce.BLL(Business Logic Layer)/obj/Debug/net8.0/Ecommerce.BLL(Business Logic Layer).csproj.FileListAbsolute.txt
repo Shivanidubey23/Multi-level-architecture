@@ -1,0 +1,17 @@
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\bin\Debug\net8.0\Ecommerce.BLL(Business Logic Layer).deps.json
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\bin\Debug\net8.0\Ecommerce.BLL(Business Logic Layer).dll
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\bin\Debug\net8.0\Ecommerce.BLL(Business Logic Layer).pdb
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\bin\Debug\net8.0\Ecommerce.DAL.dll
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\bin\Debug\net8.0\Ecommerce.Data.dll
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\bin\Debug\net8.0\Ecommerce.DAL.pdb
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\bin\Debug\net8.0\Ecommerce.Data.pdb
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\obj\Debug\net8.0\Ecommerce.BLL(Business Logic Layer).csproj.AssemblyReference.cache
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\obj\Debug\net8.0\Ecommerce.BLL(Business Logic Layer).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\obj\Debug\net8.0\Ecommerce.BLL(Business Logic Layer).AssemblyInfoInputs.cache
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\obj\Debug\net8.0\Ecommerce.BLL(Business Logic Layer).AssemblyInfo.cs
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\obj\Debug\net8.0\Ecommerce.BLL(Business Logic Layer).csproj.CoreCompileInputs.cache
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\obj\Debug\net8.0\Ecommerce.BLL(Business Logic Layer).csproj.CopyComplete
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\obj\Debug\net8.0\Ecommerce.BLL(Business Logic Layer).dll
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\obj\Debug\net8.0\refint\Ecommerce.BLL(Business Logic Layer).dll
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\obj\Debug\net8.0\Ecommerce.BLL(Business Logic Layer).pdb
+C:\Users\Shivani\source\repos\Ecommerce\Ecommerce.BLL(Business Logic Layer)\obj\Debug\net8.0\ref\Ecommerce.BLL(Business Logic Layer).dll

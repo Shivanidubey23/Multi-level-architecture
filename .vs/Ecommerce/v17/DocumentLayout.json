@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E81DC328-B044-47F4-9452-B62877753BA6}|Ecommerce.Data\\Ecommerce.Data.csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81DC328-B044-47F4-9452-B62877753BA6}|Ecommerce.Data\\Ecommerce.Data.csproj|solutionrelative:ecommerce.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528F8FFB-27A3-447D-BB8C-DF4268AFE528}|Ecommerce.DAL\\Ecommerce.DAL.csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.dal\\repository\\category repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528F8FFB-27A3-447D-BB8C-DF4268AFE528}|Ecommerce.DAL\\Ecommerce.DAL.csproj|solutionrelative:ecommerce.dal\\repository\\category repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528F8FFB-27A3-447D-BB8C-DF4268AFE528}|Ecommerce.DAL\\Ecommerce.DAL.csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.dal\\repository\\user repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528F8FFB-27A3-447D-BB8C-DF4268AFE528}|Ecommerce.DAL\\Ecommerce.DAL.csproj|solutionrelative:ecommerce.dal\\repository\\user repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528F8FFB-27A3-447D-BB8C-DF4268AFE528}|Ecommerce.DAL\\Ecommerce.DAL.csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.dal\\repository\\category repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528F8FFB-27A3-447D-BB8C-DF4268AFE528}|Ecommerce.DAL\\Ecommerce.DAL.csproj|solutionrelative:ecommerce.dal\\repository\\category repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528F8FFB-27A3-447D-BB8C-DF4268AFE528}|Ecommerce.DAL\\Ecommerce.DAL.csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.dal\\helper\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528F8FFB-27A3-447D-BB8C-DF4268AFE528}|Ecommerce.DAL\\Ecommerce.DAL.csproj|solutionrelative:ecommerce.dal\\helper\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.presentationlayer\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|solutionrelative:ecommerce.presentationlayer\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.presentationlayer\\views\\signin\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|solutionrelative:ecommerce.presentationlayer\\views\\signin\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|solutionrelative:ecommerce.presentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F81E67-226B-4047-BD41-E3AD31E6DB26}|Ecommerce.BLL(Business Logic Layer)\\Ecommerce.BLL(Business Logic Layer).csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.bll(business logic layer)\\services\\user services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F81E67-226B-4047-BD41-E3AD31E6DB26}|Ecommerce.BLL(Business Logic Layer)\\Ecommerce.BLL(Business Logic Layer).csproj|solutionrelative:ecommerce.bll(business logic layer)\\services\\user services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.presentationlayer\\views\\forgot\\forgot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|solutionrelative:ecommerce.presentationlayer\\views\\forgot\\forgot.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.presentationlayer\\views\\signup\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|solutionrelative:ecommerce.presentationlayer\\views\\signup\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.presentationlayer\\controllers\\forgotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|solutionrelative:ecommerce.presentationlayer\\controllers\\forgotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|c:\\users\\shivani\\source\\repos\\ecommerce\\ecommerce.presentationlayer\\controllers\\signincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666CA0FB-D1D2-427C-9CBD-A2B422F78C77}|Ecommerce.PresentationLayer\\Ecommerce.PresentationLayer.csproj|solutionrelative:ecommerce.presentationlayer\\controllers\\signincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.Data\\Models\\User.cs",
+              "RelativeToolTip": "Ecommerce.Data\\Models\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:17:24.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.DAL\\Repository\\User Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.DAL\\Repository\\User Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.DAL\\Repository\\User Repository\\UserRepository.cs",
+              "RelativeToolTip": "Ecommerce.DAL\\Repository\\User Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:44:18.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.DAL\\Repository\\Category Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.DAL\\Repository\\Category Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.DAL\\Repository\\Category Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Ecommerce.DAL\\Repository\\Category Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:43:38.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.DAL\\Repository\\Category Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce.DAL\\Repository\\Category Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.DAL\\Repository\\Category Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Ecommerce.DAL\\Repository\\Category Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:10:17.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dbhelper.cs",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.DAL\\Helper\\Dbhelper.cs",
+              "RelativeDocumentMoniker": "Ecommerce.DAL\\Helper\\Dbhelper.cs",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.DAL\\Helper\\Dbhelper.cs",
+              "RelativeToolTip": "Ecommerce.DAL\\Helper\\Dbhelper.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:07:25.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.BLL(Business Logic Layer)\\Services\\User Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.BLL(Business Logic Layer)\\Services\\User Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.BLL(Business Logic Layer)\\Services\\User Services\\UserService.cs",
+              "RelativeToolTip": "Ecommerce.BLL(Business Logic Layer)\\Services\\User Services\\UserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T05:03:04.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgotController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Controllers\\ForgotController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.PresentationLayer\\Controllers\\ForgotController.cs",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Controllers\\ForgotController.cs",
+              "RelativeToolTip": "Ecommerce.PresentationLayer\\Controllers\\ForgotController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T04:53:12.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Views\\Signin\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce.PresentationLayer\\Views\\Signin\\SignIn.cshtml",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Views\\Signin\\SignIn.cshtml",
+              "RelativeToolTip": "Ecommerce.PresentationLayer\\Views\\Signin\\SignIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-02T04:52:04.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Forgot.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Views\\Forgot\\Forgot.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce.PresentationLayer\\Views\\Forgot\\Forgot.cshtml",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Views\\Forgot\\Forgot.cshtml",
+              "RelativeToolTip": "Ecommerce.PresentationLayer\\Views\\Forgot\\Forgot.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-02T04:46:43.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Views\\Signup\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce.PresentationLayer\\Views\\Signup\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Views\\Signup\\SignUp.cshtml",
+              "RelativeToolTip": "Ecommerce.PresentationLayer\\Views\\Signup\\SignUp.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-02T04:46:29.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUpController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Controllers\\SignUpController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.PresentationLayer\\Controllers\\SignUpController.cs",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Controllers\\SignUpController.cs",
+              "RelativeToolTip": "Ecommerce.PresentationLayer\\Controllers\\SignUpController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T04:46:17.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignInController.cs",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Controllers\\SignInController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.PresentationLayer\\Controllers\\SignInController.cs",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Controllers\\SignInController.cs",
+              "RelativeToolTip": "Ecommerce.PresentationLayer\\Controllers\\SignInController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T04:29:38.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.PresentationLayer\\Program.cs",
+              "ToolTip": "C:\\Users\\Shivani\\source\\repos\\Ecommerce\\Ecommerce.PresentationLayer\\Program.cs",
+              "RelativeToolTip": "Ecommerce.PresentationLayer\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T04:28:25.736Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 381,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

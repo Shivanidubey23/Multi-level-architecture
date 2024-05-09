@@ -1,0 +1,52 @@
+﻿@model Ecommerce.Data.Models.User
+
+@{
+    ViewData[Constant.Keys.Title] = Constant.Text.SignIn;
+    Layout = Constant.Layout.layout;
+}
+
+<!--begin::Content-->
+<div class="flex-row-fluid d-flex flex-column position-relative p-7 overflow-hidden">
+    <!--begin::Content header-->
+    <div class="position-absolute top-0 right-0 text-right mt-5 mb-15 mb-lg-0 flex-column-auto justify-content-center py-5 px-10">
+        <span class="font-weight-bold text-dark-50">@Constant.Messages.DontHaveAccount</span>
+        <a href="@Url.Action("Signup", "Signup")" class="font-weight-bold ml-2" id="kt_login_signup">@Constant.Text.SignUp</a>
+    </div>
+    <!--end::Content header-->
+    <!--begin::Content body-->
+    <div class="d-flex flex-column-fluid flex-center mt-30 mt-lg-0">
+        <!--begin::Signin-->
+        <div class="login-form login-signin">
+            <div class="text-center mb-10 mb-lg-20">
+                <h3 class="font-size-h1">Sign In</h3>
+                <p class="text-muted font-weight-bold">@Constant.Messages.EnterUserNameAndPassword</p>
+            </div>
+
+            <!--begin::Form-->
+            <form class="form" asp-controller="Signin" asp-action="Signin" method="post">
+                <div class="form-group row fv-plugins-icon-container">
+                    <input asp-for="Username" class="form-control form-control-solid h-auto py-5 px-6" placeholder="@Constant.Placeholder.User" autocomplete="off" />
+                    <span asp-validation-for="Username" class="text-danger"></span>
+                </div>
+
+                <div class="form-group row fv-plugins-icon-container">
+                    <input asp-for="Password" type="password" class="form-control form-control-solid h-auto py-5 px-6" placeholder="@Constant.Placeholder.Password" autocomplete="off" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <!-- Display validation errors -->
+                <div asp-validation-summary="All" class="text-danger"></div>
+
+                <!--begin::Action-->
+                <div class="form-group d-flex flex-wrap justify-content-between align-items-center">
+                    <a href="@Url.Action("Forgot", "Forgot")" class="text-dark-50 text-hover-primary my-3 mr-2" id="kt_login_forgot">@Constant.Text.ForgotPassword</a>
+
+                    <button id="kt_login_signin_submit" class="btn btn-primary font-weight-bold px-9 py-4 my-3">@Constant.Text.SignIn</button>
+                </div>
+                <!--end::Action-->
+            </form>
+            <!--end::Form-->
+        </div>
+        <!--end::Signin-->
+    </div>
+</div>
